@@ -1,0 +1,24 @@
+# School Management System Requirements
+
+## Java Requirements
+- Java Development Kit (JDK) 8 or higher
+- Java Runtime Environment (JRE) for execution
+
+## External Dependencies
+- SQLite JDBC Driver (sqlite-jdbc-3.x.x.jar)
+  Download from: https://github.com/xerial/sqlite-jdbc/releases
+  Place in lib/ directory
+
+## System Requirements
+- Windows/Linux/macOS
+- Minimum 512MB RAM
+- 50MB disk space
+- Display resolution: 800x600 minimum
+
+## Development Tools (Optional)
+- Any Java IDE (Eclipse, IntelliJ IDEA, NetBeans)
+- Command line tools for compilation and execution
+
+## Database
+- SQLite database (created automatically)
+- No additional database server required
